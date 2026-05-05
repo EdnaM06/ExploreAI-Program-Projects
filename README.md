@@ -1,65 +1,89 @@
 # ExploreAI Program Projects
 
-A curated collection of my projects completed through the ExploreAI Academy program, showcasing my journey in data analysis, programming, and business insight generation.
+A curated collection of projects completed through the ExploreAI Academy program, showcasing my journey in data analysis, programming, and business insight generation.
 
-![ExploreAI Banner](https://images.pexels.com/photos/1619541/pexels-photo-1619541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<p align="center">
+  <img src="https://images.pexels.com/photos/1619541/pexels-photo-1619541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="ExploreAI Banner" width="800"/>
+</p>
 
-These projects demonstrate practical experience in **Python, SQL, data visualization, machine learning, and dashboard development**, with a strong focus on turning data into actionable insights.
+These projects demonstrate practical experience in **Python, SQL, data visualization, machine learning, and statistical modeling**, with a strong focus on transforming data into actionable insights.
 
 ---
 
 ## 🚀 Overview
 
-This repository highlights work across different domains, including:
+This repository includes both **individual projects** and **collaborative projects**, completed as part of the ExploreAI Academy program.
 
+It reflects experience in:
 - Data analysis and exploration  
-- SQL-based data extraction and transformation  
-- Python programming for analytics and modeling  
+- SQL querying and database manipulation  
+- Predictive modeling and machine learning  
 - Data visualization and dashboard creation  
-- Business insight development and reporting  
+- Collaborative problem-solving in data teams  
 
 ---
 
-## 📊 ExploreAI Academy Projects
+## 📊 Individual Projects
 
-A series of hands-on projects completed during the ExploreAI Academy program, demonstrating:
+These projects were completed independently, demonstrating my personal technical skills and analytical thinking.
 
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA)  
-- Statistical analysis and interpretation  
-- Visualization using tools such as Power BI and Python libraries  
-- Building insights from structured and unstructured data  
+### 🔹 SQL Challenges (Individual)
+- Solved structured SQL problems
+- Worked with joins, aggregations, filtering, and subqueries
+- Strengthened database querying and data extraction skills
 
-These projects reflect my ability to work with data end-to-end — from raw datasets to business-ready insights.
+### 🔹 Python Predict (Individual)
+- Built predictive models using Python
+- Performed data preprocessing and feature engineering
+- Applied basic machine learning concepts for prediction tasks
 
 ---
 
-## 🧠 BCX Project (Project Lead)
+## 🤝 Collaborative Projects
 
-As Project Lead for BCX, I developed dashboards focused on **opportunity win/loss analysis**, enabling better visibility into sales and operational performance.
+These projects were completed in teams, focusing on collaboration, shared problem-solving, and stakeholder-style delivery.
 
-### Key Contributions:
+### 🔹 Advanced Classification Project (Collaborated)
+- Worked as part of a team to build classification models
+- Contributed to data preprocessing and model evaluation
+- Participated in model comparison and insight generation
 
-- Designed and built interactive dashboards  
-- Analyzed win/loss trends for business opportunities  
-- Translated raw data into actionable business insights  
-- Supported strategic decision-making through reporting  
-- Collaborated with stakeholders to define key metrics (KPIs)  
+### 🔹 Regression Project (Collaborated)
+- Collaborated on building regression models
+- Assisted in feature selection and performance evaluation
+- Contributed to interpreting model outputs for business insights
 
-This project strengthened my skills in **data interpretation, stakeholder communication, and dashboard storytelling**.
+### 🔹 Supervised Learning Project (Collaborated)
+- Worked in a group setting to apply supervised learning techniques
+- Supported model training, testing, and evaluation
+- Helped translate results into business recommendations
+
+---
+
+## 🧠 BCX Visualization Project (Individual Contribution)
+
+### 🔹 ESCOM Visualization Project (Individual)
+- Built data visualizations to analyze energy consumption patterns
+- Designed dashboards to communicate insights clearly
+- Applied data storytelling to support decision-making
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Python  
-- SQL  
-- Power BI / Data Visualization Tools  
-- Excel  
-- Pandas, NumPy  
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI / Data Visualization Tools
+- Excel
+- Machine Learning (Regression, Classification, Supervised Learning)
 
 ---
 
 ## 💡 Summary
 
-These projects represent more than technical tasks — they reflect a continuous journey of learning, problem-solving, and applying data to real-world business challenges.
+This portfolio represents a balance between **individual technical capability** and **collaborative data science work**.
+
+It reflects my ability to:
+- Work independently on structured analytical problems  
+- Contribute effectively in team-based data projects  
+- Translate data into meaningful business insights  
