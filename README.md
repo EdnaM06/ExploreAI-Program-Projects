@@ -62,7 +62,16 @@ These projects were completed in teams, focusing on collaboration, shared proble
 
 ## 🧠 BCX Visualization Project (Individual Contribution)
 
-### 🔹 ESCOM Visualization Project (Individual)
+As Project Lead for BCX, I developed dashboards focused on **opportunity win/loss analysis**, enabling better visibility into sales and operational performance.
+
+- Contributed to the “Opportunity Win vs Loss Insights” analytics project focused on sales performance evaluation
+- Analyzed business opportunity data to identify trends, patterns, and performance gaps
+- Built and maintained Power BI dashboards to visualize opportunity conversion rates and sales outcome
+- Cleaned and structured multi-source datasets for accurate analysis and reporting
+- Presented insights to stakeholders to support sales strategy and decision-making
+- Delivered analysis contributing to a 47.49% closed-won rate insight evaluation and 20% reduction in opportunity loss rate
+
+### 🔹 ESKOM Dashboard Visualization Project (Individual)
 - Built data visualizations to analyze energy consumption patterns
 - Designed dashboards to communicate insights clearly
 - Applied data storytelling to support decision-making
